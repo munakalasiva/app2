@@ -1,0 +1,10 @@
+.list-item {
+  list-style-type: none;
+}
+.adj {
+  display: flex;
+  justify-content: space-between;
+}
+.head {
+  font-size: 25px;
+}
